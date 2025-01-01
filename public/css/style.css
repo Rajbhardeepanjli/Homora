@@ -1,0 +1,17 @@
+/* body{
+    background-color: rgb(255, 206, 214);
+} */
+
+/* navbar */
+.navbar{
+    height: 5rem;
+}
+
+.fa-blog{
+    color: rgb(223, 109, 28);
+    font-size: 2rem;
+}
+
+.nav-link{
+    color: #222222 !important;
+}
