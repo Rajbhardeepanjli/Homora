@@ -30,7 +30,7 @@ main().then(()=>{
     console.log(err);
 })
 
-app.get("/",(req,res)=>{ //home page
+app.get("/",(req,res)=>{ //home page123
     res.send("hii i am root")
 })
 
