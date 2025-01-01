@@ -17,5 +17,5 @@
 - *Frontend:* EJS, CSS
 - *Backend:* Node.js, Express
 - *Database:* MongoDB
-- *Others:* bcrypt for password encryption
+- *Others:* bcrypt for password encryption.
 
